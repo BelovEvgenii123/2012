@@ -1,0 +1,15 @@
+/Users/evgenijbelov/Documents/GB/C#2/dz/2012/z56/bin/Debug/net7.0/z56
+/Users/evgenijbelov/Documents/GB/C#2/dz/2012/z56/bin/Debug/net7.0/z56.deps.json
+/Users/evgenijbelov/Documents/GB/C#2/dz/2012/z56/bin/Debug/net7.0/z56.runtimeconfig.json
+/Users/evgenijbelov/Documents/GB/C#2/dz/2012/z56/bin/Debug/net7.0/z56.dll
+/Users/evgenijbelov/Documents/GB/C#2/dz/2012/z56/bin/Debug/net7.0/z56.pdb
+/Users/evgenijbelov/Documents/GB/C#2/dz/2012/z56/obj/Debug/net7.0/z56.csproj.AssemblyReference.cache
+/Users/evgenijbelov/Documents/GB/C#2/dz/2012/z56/obj/Debug/net7.0/z56.GeneratedMSBuildEditorConfig.editorconfig
+/Users/evgenijbelov/Documents/GB/C#2/dz/2012/z56/obj/Debug/net7.0/z56.AssemblyInfoInputs.cache
+/Users/evgenijbelov/Documents/GB/C#2/dz/2012/z56/obj/Debug/net7.0/z56.AssemblyInfo.cs
+/Users/evgenijbelov/Documents/GB/C#2/dz/2012/z56/obj/Debug/net7.0/z56.csproj.CoreCompileInputs.cache
+/Users/evgenijbelov/Documents/GB/C#2/dz/2012/z56/obj/Debug/net7.0/z56.dll
+/Users/evgenijbelov/Documents/GB/C#2/dz/2012/z56/obj/Debug/net7.0/refint/z56.dll
+/Users/evgenijbelov/Documents/GB/C#2/dz/2012/z56/obj/Debug/net7.0/z56.pdb
+/Users/evgenijbelov/Documents/GB/C#2/dz/2012/z56/obj/Debug/net7.0/z56.genruntimeconfig.cache
+/Users/evgenijbelov/Documents/GB/C#2/dz/2012/z56/obj/Debug/net7.0/ref/z56.dll
